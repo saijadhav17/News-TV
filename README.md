@@ -1,6 +1,6 @@
 # Live Demo
 
-##Full stack, News Web app using React, Firebase, Hooks, Tailwind CSS and  News API... 👇
+## Full stack, News Web app using React, Firebase, Hooks, Tailwind CSS and  News API... 👇
 
 - 👉 Build a News Web App using newsapi 💻
 - 👉 handle authentication with Firebase Google Authentication 🔑
